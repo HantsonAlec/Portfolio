@@ -10,7 +10,7 @@ In my portfolio you can find all of my technical knowledge about AI.
 
 
 ## Liniar regression
-Two little project that helped me gain knowledge and understanding of liniar regression models.
+Two little project that helped me gain knowledge and understanding of liniar regression models. I also did some basic data analysis and compared the lasso and ridge regularisators.
 ### Weight predictor
 Simple liniar regression model to predict the weight of a person based on things the person did that week. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/LinearRegression/Linear_Regression_weight_prediction.ipynb)
 ### Lego price predictor

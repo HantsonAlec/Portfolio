@@ -23,6 +23,6 @@ With these project I want to show my understanding about working with logistic r
 ### Diabetes detector
 Model that predicts if a patient has diabetes or not based on medical parameters. I also edited the model to lower the number of flase negatives since we don't want to tell patient they don't have diabetes when they do. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/LogisticRegression/Logistic_Regression_Diabetes_Classifier.ipynb)
 ### HR helper
-With this model an HR department could detect if a employee is planning on leaving the company or not. If they are then they can act on it quickly so. he will stay.[View code](https://github.com/HantsonAlec/Portfolio/blob/main/LogisticRegression/Logistic_Regression_HR_Classifier.ipynb)
+With this model an HR department could detect if a employee is planning on leaving the company or not. If they are then they can act on it quickly so he will stay. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/LogisticRegression/Logistic_Regression_HR_Classifier.ipynb)
 
 

@@ -11,6 +11,7 @@ In my portfolio you can find all of my technical knowledge about AI.
     - [Diabetes detector](#diabetes-detector)
     - [HR helper](#hr-helper)
   - [Support Vector Machine](#support-vector-machine)
+    - [Canced detection](#cancer-detection) 
 
 ## Liniar regression
 Two little project that helped me gain knowledge and understanding of liniar regression models. I also did some basic data analysis and compared the lasso and ridge regularisators.

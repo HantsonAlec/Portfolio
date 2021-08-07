@@ -10,6 +10,7 @@ In my portfolio you can find all of my technical knowledge about AI.
   - [Logistic regression](#logistic-regression)
     - [Diabetes detector](#diabetes-detector)
     - [HR helper](#hr-helper)
+  - [Support Vector Machine](#support-vector-machine)
 
 ## Liniar regression
 Two little project that helped me gain knowledge and understanding of liniar regression models. I also did some basic data analysis and compared the lasso and ridge regularisators.
@@ -25,4 +26,8 @@ Model that predicts if a patient has diabetes or not based on medical parameters
 ### HR helper
 With this model an HR department could detect if a employee is planning on leaving the company or not. If they are then they can act on it quickly so he will stay. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/LogisticRegression/Logistic_Regression_HR_Classifier.ipynb)
 
+## Support Vector Machine
+Showing my technical knowledge and understanding of SVM's and optimizing with grid search and random search
+### Cancer detection
+Compared Logistic regression model with SVM model in detecting cancer based on medical info. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Support_Vector_Machines/SVM_Cancer_Detector.ipynb)
 

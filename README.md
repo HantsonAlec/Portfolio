@@ -36,7 +36,7 @@ Compared Logistic regression model with SVM model in detecting cancer based on m
 
 ## Naive Bayes
 NLP model with machine learling instead of deep learning. This shows my technical knowledge of Naive bayes models and a little bit oversampling/augmentation for text.
-### Cybertroll detection
+### Cybertrolls detection
 Model that detects if a tweet is from a cybertroll or not. Based on the text and length of the sentence. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Naive_Bayes/Naive_Bayes_Cybertrolls.ipynb)
 
 

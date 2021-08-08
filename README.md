@@ -12,7 +12,9 @@ In my portfolio you can find all of my technical knowledge about AI.
     - [HR helper](#hr-helper)
   - [Support Vector Machine](#support-vector-machine)
     - [Canced detection](#cancer-detection) 
-
+  - [Naive Bayes](#naive-bayes)
+    - [Cybertrolls classifier](#cybertrolls-classifier) 
+   
 ## Liniar regression
 Two little project that helped me gain knowledge and understanding of liniar regression models. I also did some basic data analysis and compared the lasso and ridge regularisators.
 ### Weight predictor
@@ -31,4 +33,10 @@ With this model an HR department could detect if a employee is planning on leavi
 Showing my technical knowledge and understanding of SVM's and optimizing with grid search and random search
 ### Cancer detection
 Compared Logistic regression model with SVM model in detecting cancer based on medical info. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Support_Vector_Machines/SVM_Cancer_Detector.ipynb)
+
+## Naive Bayes
+NLP model with machine learling instead of deep learning. This shows my technical knowledge of Naive bayes models and a little bit oversampling/augmentation for text.
+### Cybertroll detection
+Model that detects if a tweet is from a cybertroll or not. Based on the text and length of the sentence. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Naive_Bayes/Naive_Bayes_Cybertrolls.ipynb)
+
 

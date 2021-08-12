@@ -1,7 +1,7 @@
 # Portfolio
 Hello I am Alec Hantson a student AI Engineer(MCT) from Belgium!
 
-In my portfolio you can find all of my technical knowledge about AI.
+In my portfolio you can find all of my demos/projects to show my technical knowledge about AI.
 
 ## Table of content:
   - [Liniar regression](#liniar-regression)

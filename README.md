@@ -17,6 +17,16 @@ In my portfolio you can find all of my demos/projects to show my technical knowl
     - [Cybertrolls classifier](#cybertrolls-classifier)
   - [Unsupervised Learning](#unsupervised-learning)
     - [Customer clustering](#customer-clustering)
+  - [Search Algorithms](#search-algorithms)
+    - [Best First Search](#best-first-search)  
+    - [Depth First Search](#depth-first-search)
+    - [Iterative Deepening Depth First Search](#iterative-deepening-depth-first-search)
+    - [Bidirectional Search](#bidirectional-search)
+    - [A star](#a-star)
+    - [Uniform Sost Search](#uniform-cost-search)
+  - [Fuzzy Logic](#fuzzy-logic)
+    - [Traffic lights](#traffic-lights) 
+    - [Tipping](#tipping) 
    
 ## Liniar regression
 Two little project that helped me gain knowledge and understanding of liniar regression models.
@@ -78,3 +88,36 @@ What I learned:
 
 ### Customer clustering
 Using supermarket customer data and clustering to find target groups. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Unsupervised_Learning/Unsupervised_Learning_Clustering.ipynb)
+
+## Search Algorithms
+Using different algorithms to solve various problems.
+
+What I learned:
+  - Differences between algorithms
+  - How to implement the different algorithms
+  - Learned difference between uninformed and informed search
+
+### Best First Search
+Solving a maze with the help of the BFS algorithm. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/BFS/lBFS_ladders_Snakes.py)
+### Depth First Search
+Instead of BFS now using DFS to solve a maze. Using different algorithms for the same problems really shows the difference between them. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/DFS/DFS_labyrinth.py)
+### Iterative Deepening Depth First Search
+Last but not least in the Maze serie, Using IDDFS to solve a maze. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/IDS/IDS_maze.py)
+### Bidirectional Search
+Using Bidirectional Search to solve an 8 puzzle. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Search_Algorithms/Bidirectional)
+### A star
+Switching from uninformed search to infromed search to solve the 8 puzzle. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/A*/A_star.py)
+### Uniform Sost Search
+Getting the best way to run a spartan race with the help of UCS. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/UCS/UCS_spartan_race.py)
+
+## Fuzzy Logic
+Fuzzy logic can help in situation where we have no straight forward right or wrong.
+
+What I learned:
+  - Situations to use fuzzy logic
+  - converting real life situations into code
+
+### Traffic lights
+Fuzzy logic to determine when to switch lights to red or green. [View code and table](https://github.com/HantsonAlec/Portfolio/tree/main/Fuzzy_logic)
+### Tipping
+With the help of fuzzy logic determening how much to tip at a restaurant [View code and table](https://github.com/HantsonAlec/Portfolio/tree/main/Fuzzy_logic)

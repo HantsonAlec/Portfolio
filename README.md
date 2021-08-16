@@ -104,7 +104,7 @@ Instead of BFS now using DFS to solve a maze. Using different algorithms for the
 ### Iterative Deepening Depth First Search
 Last but not least in the Maze serie, Using IDDFS to solve a maze. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/IDS/IDS_maze.py)
 ### Bidirectional Search
-Using Bidirectional Search to solve an 8 puzzle. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Search_Algorithms/Bidirectional)
+Using Bidirectional Search to solve an 8 puzzle. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/Bidirectional/bidrectional_8_puzzle.py)
 ### A star
 Switching from uninformed search to infromed search to solve the 8 puzzle. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/A*/A_star.py)
 ### Uniform Cost Search

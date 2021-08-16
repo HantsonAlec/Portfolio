@@ -107,7 +107,7 @@ Last but not least in the Maze serie, Using IDDFS to solve a maze. [View Code](h
 Using Bidirectional Search to solve an 8 puzzle. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Search_Algorithms/Bidirectional)
 ### A star
 Switching from uninformed search to infromed search to solve the 8 puzzle. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/A*/A_star.py)
-### Uniform Sost Search
+### Uniform Cost Search
 Getting the best way to run a spartan race with the help of UCS. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Search_Algorithms/UCS/UCS_spartan_race.py)
 
 ## Fuzzy Logic

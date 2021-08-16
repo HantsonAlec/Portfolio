@@ -1,6 +1,6 @@
 # Traffic lights rules
 
-|   | VS | S | M | L |
+|  a | VS | S | M | L |
 | ------------- | ------------- | ------------- | ------------- |
 | AN | Z | Z | Z | Z |
 | F | S | S | Z | Z |
@@ -27,7 +27,7 @@ Results: additional time
 
 # Tipping
 
-|   | B | D | G |
+|  a | B | D | G |
 | ------------- | ------------- | ------------- |
 | P | L | L | H |
 | AC | M | M | M |

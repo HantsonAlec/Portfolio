@@ -25,7 +25,7 @@ Results: additional time
 - M = Moderate
 - L = Long
 
-# Tipping
+# Tipping rules
 
 |  | B | D | G |
 | ------------- | ------------- | ------------- | ------------- |

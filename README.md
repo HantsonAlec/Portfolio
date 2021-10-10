@@ -39,9 +39,9 @@ What I learned:
   - Using different regularistions and comparing them.
 
 ### Weight predictor
-Simple liniar regression model to predict the weight of a person based on things the person did that week. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/LinearRegression/Linear_Regression_weight_prediction.ipynb)
+Simple liniar regression model to predict the weight of a person based on things the person did that week. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Linear_Regression/Linear_Regression_weight_prediction.ipynb)
 ### Lego price predictor
-Predicting the price of a lego set based on features like difficulty and review scores. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/LinearRegression/Linear_Regression_lego_price_prediction.ipynb)
+Predicting the price of a lego set based on features like difficulty and review scores. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Linear_Regression/Linear_Regression_lego_price_prediction.ipynb)
 
 ## Logistic regression
 With these project I want to show my understanding about working with logistic regression models. Analysis and understanding results.
@@ -52,9 +52,9 @@ What I learned:
   - Understanding impact of false negatives in some situations.
 
 ### Diabetes detector
-Model that predicts if a patient has diabetes or not based on medical parameters. I also edited the model to lower the number of flase negatives since we don't want to tell patient they don't have diabetes when they do. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/LogisticRegression/Logistic_Regression_Diabetes_Classifier.ipynb)
+Model that predicts if a patient has diabetes or not based on medical parameters. I also edited the model to lower the number of flase negatives since we don't want to tell patient they don't have diabetes when they do. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Logistic_Regression/Logistic_Regression_Diabetes_Classifier.ipynb)
 ### HR helper
-With this model an HR department could detect if a employee is planning on leaving the company or not. If they are then they can act on it quickly so he will stay. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/LogisticRegression/Logistic_Regression_HR_Classifier.ipynb)
+With this model an HR department could detect if a employee is planning on leaving the company or not. If they are then they can act on it quickly so he will stay. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Logistic_Regression/Logistic_Regression_HR_Classifier.ipynb)
 
 ## Support Vector Machine
 Showing my technical knowledge and understanding of SVM's and optimizing with grid search and random search.

@@ -29,7 +29,7 @@ In my portfolio you can find all of my demos/projects to show my technical knowl
     -   [Convolutional Neural Networks](#convolutional-neural-networks)
         -   [Fashion MNIST](#fashion-mnist)
         -   [Car detection](#car-detection)
-    -   [Auto encoder](#auto-encoder)
+    -   [Auto encoders](#auto-encoder)
         -   [Face reconstruction](#face-reconstruction)
         -   [Fraud detection](#fraud-detection)
         -   [Movie recommender](#movie-recommender)

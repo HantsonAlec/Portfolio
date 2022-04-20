@@ -71,11 +71,11 @@ What I learned:
 
 ### Weight predictor
 
-Simple liniar regression model to predict the weight of a person based on things the person did that week. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20learning/Linear_Regression/Linear_Regression_weight_prediction.ipynb)
+Simple liniar regression model to predict the weight of a person based on things the person did that week. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20Learning/Linear_Regression/Linear_Regression_weight_prediction.ipynb)
 
 ### Lego price predictor
 
-Predicting the price of a lego set based on features like difficulty and review scores. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20learning/Linear_Regression/Linear_Regression_lego_price_prediction.ipynb)
+Predicting the price of a lego set based on features like difficulty and review scores. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20Learning/Linear_Regression/Linear_Regression_lego_price_prediction.ipynb)
 
 ## Logistic regression
 
@@ -89,11 +89,11 @@ What I learned:
 
 ### Diabetes detector
 
-Model that predicts if a patient has diabetes or not based on medical parameters. I also edited the model to lower the number of flase negatives since we don't want to tell patient they don't have diabetes when they do. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20learning/Logistic_Regression/Logistic_Regression_Diabetes_Classifier.ipynb)
+Model that predicts if a patient has diabetes or not based on medical parameters. I also edited the model to lower the number of flase negatives since we don't want to tell patient they don't have diabetes when they do. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20Learning/Logistic_Regression/Logistic_Regression_Diabetes_Classifier.ipynb)
 
 ### HR helper
 
-With this model an HR department could detect if a employee is planning on leaving the company or not. If they are then they can act on it quickly so he will stay. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20learning/Logistic_Regression/Logistic_Regression_HR_Classifier.ipynb)
+With this model an HR department could detect if a employee is planning on leaving the company or not. If they are then they can act on it quickly so he will stay. [View code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20Learning/Logistic_Regression/Logistic_Regression_HR_Classifier.ipynb)
 
 ## Support Vector Machine
 
@@ -108,11 +108,11 @@ What I learned:
 
 ### Cancer detection
 
-Compared Logistic regression model with SVM model in detecting cancer based on medical info. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20learning/Support_Vector_Machines/SVM_Cancer_Detector.ipynb)
+Compared Logistic regression model with SVM model in detecting cancer based on medical info. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20Learning/Support_Vector_Machines/SVM_Cancer_Detector.ipynb)
 
 ### Face classifier
 
-Here I created a simple face classifier with the purpose of showing knowledge about PCA. Eigenfaces are used to classify Faces. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20learning/Support_Vector_Machines/Face%20Detection.ipynb)
+Here I created a simple face classifier with the purpose of showing knowledge about PCA. Eigenfaces are used to classify Faces. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20Learning/Support_Vector_Machines/Face%20Detection.ipynb)
 
 ## Naive Bayes
 
@@ -126,7 +126,7 @@ What I learned:
 
 ### Cybertrolls classifier
 
-Model that detects if a tweet is from a cybertroll or not. Based on the text and length of the sentence. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20learning/Naive_Bayes/Naive_Bayes_Cybertrolls.ipynb)
+Model that detects if a tweet is from a cybertroll or not. Based on the text and length of the sentence. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20Learning/Naive_Bayes/Naive_Bayes_Cybertrolls.ipynb)
 
 ## Unsupervised Learning
 
@@ -139,7 +139,7 @@ What I learned:
 
 ### Customer clustering
 
-Using supermarket customer data and clustering to find target groups. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20learning/Unsupervised_Learning/Unsupervised_Learning_Clustering.ipynb)
+Using supermarket customer data and clustering to find target groups. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Machine%20Learning/Unsupervised_Learning/Unsupervised_Learning_Clustering.ipynb)
 
 # Deep learning
 
@@ -154,7 +154,7 @@ What I learned:
 
 ### Character recognizer
 
-Simple Neural network that can detect characters based on tabular data instead of images. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20learning/Neural_Networks/Character_Recognizer.ipynb)
+Simple Neural network that can detect characters based on tabular data instead of images. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20Learning/Neural_Networks/Character_Recognizer.ipynb)
 
 ## Convolutional Neural Networks
 
@@ -168,11 +168,11 @@ What I learned:
 
 ### Fashion MNIST
 
-CNN model that was trained from scratch to recognize different clothing pieces on the famous fashion MNIST dataset. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20learning/CNN/Fashion_mnist.ipynb)
+CNN model that was trained from scratch to recognize different clothing pieces on the famous fashion MNIST dataset. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20Learning/CNN/Fashion_mnist.ipynb)
 
 ### Car Detection
 
-Trying out CNN models both trained from scratch and with the use of VGG19. Once model was trained, it was used for object detection. The object detection was made from scratch with a rolling window. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20learning/CNN/Car_detection_from_scratch.ipynb)
+Trying out CNN models both trained from scratch and with the use of VGG19. Once model was trained, it was used for object detection. The object detection was made from scratch with a rolling window. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20Learning/CNN/Car_detection_from_scratch.ipynb)
 
 ## Auto Encoders
 
@@ -186,15 +186,15 @@ What I learned:
 
 ### Face reconstruction
 
-Trying out various autoencoder models with CNN layers to reconstruct ocluded faces. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20learning/Auto_Encoders/Face_reconstruction.ipynb)
+Trying out various autoencoder models with CNN layers to reconstruct ocluded faces. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20Learning/Auto_Encoders/Face_reconstruction.ipynb)
 
 ### Fraud detection
 
-Using an undercomplete autoencoder to detect fraud transactions. Experimenting with threshold to find sweet spot. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20learning/Auto_Encoders/Fraud_Detection.ipynb)
+Using an undercomplete autoencoder to detect fraud transactions. Experimenting with threshold to find sweet spot. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20Learning/Auto_Encoders/Fraud_Detection.ipynb)
 
 ### Movie recommender
 
-Building a movie recommender based on the MovieLens database. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20learning/Auto_Encoders/Movie_recommender.ipynb)
+Building a movie recommender based on the MovieLens database. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20Learning/Auto_Encoders/Movie_recommender.ipynb)
 
 ## Long Short Term Memory
 
@@ -208,11 +208,11 @@ What I learned:
 
 ### Maintenance Prediction
 
-Predicting when an engine needs maintenance. First with a normal classification model as baseline before using the time series approach. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20learning/LSTM/Maintenance_prediction.ipynb)
+Predicting when an engine needs maintenance. First with a normal classification model as baseline before using the time series approach. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20Learning/LSTM/Maintenance_prediction.ipynb)
 
 ### Airline sentiment
 
-Classifying tweets send about different airlines based on their sentiment. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20learning/LSTM/Airline_sentiment.ipynb)
+Classifying tweets send about different airlines based on their sentiment. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Deep%20Learning/LSTM/Airline_sentiment.ipynb)
 
 # Reinforcement learning
 
@@ -228,15 +228,15 @@ What I learned:
 
 ### Cartpole with Q learning
 
-Using the Q learning algorithm to train an agent to balance a stick up right. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20learning/Q/cartpole_Q.py)
+Using the Q learning algorithm to train an agent to balance a stick up right. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20Learning/Q/cartpole_Q.py)
 
 ### LunarLander with DQN
 
-An agent that tries to land a lunar lander between two flags [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20learning/Q/DQN_LunarLander.py)
+An agent that tries to land a lunar lander between two flags [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20Learning/Q/DQN_LunarLander.py)
 
 ### MountainCar with DQN
 
-Training an agent that needs to learn how to reach the top of a mountain with a car. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20learning/Q/DQN_MountainCar.py)
+Training an agent that needs to learn how to reach the top of a mountain with a car. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20Learning/Q/DQN_MountainCar.py)
 
 ## SARSA / Deep SARSA
 
@@ -250,11 +250,11 @@ What I learned:
 
 ### Cartpole with SARSA
 
-Converting the Q learning implementation to SARSA. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20learning/SARSA/cartpole_SARSA.py)
+Converting the Q learning implementation to SARSA. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20Learning/SARSA/cartpole_SARSA.py)
 
 ### MountainCar with Deep SARSA
 
-Converting the Q learning implementation to SARSA. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20learning/SARSA/DeepSarsa_MountainCar.py)
+Converting the Q learning implementation to SARSA. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20Learning/SARSA/DeepSarsa_MountainCar.py)
 
 ## Policy Gradient
 
@@ -267,7 +267,7 @@ What I learned:
 
 ### Cartpole with policy gradient
 
-Converting the Q learning implementation to policy gradient. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20learning/Policy_Gradient/pg_cartpole.py)
+Converting the Q learning implementation to policy gradient. [View Code](https://github.com/HantsonAlec/Portfolio/blob/main/Reinforcement%20Learning/Policy_Gradient/pg_cartpole.py)
 
 # Search Algorithms
 

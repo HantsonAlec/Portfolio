@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello I am Alec Hantson a ML Engineer from Belgium! 👋
+Hello I am Alec Hantson a ML Engineer from Belgium! 👋🇧🇪
 
 In my portfolio you can find all of my demos/projects to show my technical knowledge about AI (and even references to some non AI projects at the bottom👀). All of the code are notebooks to show my thinking and display my knowledge in a clean way.🤓
 

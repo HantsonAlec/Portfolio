@@ -6,7 +6,7 @@ In my portfolio you can find all of my demos/projects to show my technical knowl
 
 If you are interested in that good academic stuff, be sure to check my [bachelor thesis](https://github.com/HantsonAlec/Portfolio/blob/main/Alec_Hantson_BP_final.pdf)!📚
 
-## Table of contents:
+## Table of content:
 
 -   [MACHINE LEARNING](#machine-learning)
     -   [Liniar regression](#liniar-regression)

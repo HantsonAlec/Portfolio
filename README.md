@@ -58,6 +58,8 @@ If you are interested in that good academic stuff, be sure to check my [bachelor
 -   [OTHER](other)
     -   [Smart Air](#smart-air)
     -   [EveFind](#evefind)
+-   [DATACAMP]
+    -   [Netflix data](#Netflix-data-on-the-office)
 
 # Machine Learning
 
@@ -337,3 +339,11 @@ A project created during my first year MCT. Smart Air is an IoT device that chec
 ## EveFind
 
 Evefind is a webapp to help EV drivers find charging spots around them. [View Code](https://github.com/HantsonAlec/EveFind)
+
+# Datacamp
+
+Some small datacamp projects to keep the knowledge fresh.
+
+## Netflix data on the office
+
+Data investigation into movie data to answer questions about evolution of movie length. [View Code](https://github.com/HantsonAlec/Investigating_Netflix_Movies_and_Guest_Stars_in_The_Office)

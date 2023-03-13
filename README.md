@@ -351,4 +351,4 @@ Data investigation into movie data to answer questions about evolution of movie 
 
 ## Google playstore insights
 
-Creating insights into the Google Play Store apps. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Datacamp/The%20Android%20App%20Market%20On%20Google%20Play)
+Creating insights into the Google Play Store apps. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Datacamp/The%20Android%20App%20Market%20on%20Google%20Play)

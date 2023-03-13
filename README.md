@@ -346,4 +346,4 @@ Some small datacamp projects to keep the knowledge fresh.
 
 ## Netflix data on the office
 
-Data investigation into movie data to answer questions about evolution of movie length. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Investigating_Netflix_Movies_and_Guest_Stars_in_The_Office)
+Data investigation into movie data to answer questions about evolution of movie length. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Datacamp/Investigating_Netflix_Movies_and_Guest_Stars_in_The_Office)

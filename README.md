@@ -55,10 +55,10 @@ If you are interested in that good academic stuff, be sure to check my [bachelor
     -   [A star](#a-star)
     -   [Uniform Sost Search](#uniform-cost-search)
 -   [RESEARCH PROJECT](#research-project)
--   [OTHER](other)
+-   [OTHER](#other)
     -   [Smart Air](#smart-air)
     -   [EveFind](#evefind)
--   [DATACAMP]
+-   [DATACAMP](#datacamp)
     -   [Netflix data](#Netflix-data-on-the-office)
 
 # Machine Learning
@@ -346,4 +346,4 @@ Some small datacamp projects to keep the knowledge fresh.
 
 ## Netflix data on the office
 
-Data investigation into movie data to answer questions about evolution of movie length. [View Code](https://github.com/HantsonAlec/Investigating_Netflix_Movies_and_Guest_Stars_in_The_Office)
+Data investigation into movie data to answer questions about evolution of movie length. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Investigating_Netflix_Movies_and_Guest_Stars_in_The_Office)

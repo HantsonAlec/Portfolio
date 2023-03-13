@@ -2,7 +2,7 @@
 
 Hello, I am Alec Hantson a ML/Data enthusiast from Belgium! 👋🇧🇪
 
-In my portfolio you can find all of my demos/projects to show my technical knowledge about AI (and even references to some non AI projects at the bottom👀). All of the code are notebooks to show my thinking and display my knowledge in a clean way.🤓
+In my portfolio you can find all of my demos/projects to show my technical knowledge about data and AI (and even references to some non AI projects at the bottom👀). All of the code are notebooks to show my thinking and display my knowledge in a clean way.🤓
 
 If you are interested in that good academic stuff, be sure to check my [bachelor thesis](https://github.com/HantsonAlec/Portfolio/blob/main/Alec_Hantson_BP_final.pdf)!📚
 
@@ -60,6 +60,7 @@ If you are interested in that good academic stuff, be sure to check my [bachelor
     -   [EveFind](#evefind)
 -   [DATACAMP](#datacamp)
     -   [Netflix data](#Netflix-data-on-the-office)
+    -   [Google playstore](#Google-playstore-insights)
 
 # Machine Learning
 
@@ -347,3 +348,7 @@ Some small datacamp projects to keep the knowledge fresh.
 ## Netflix data on the office
 
 Data investigation into movie data to answer questions about evolution of movie length. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Datacamp/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
+
+## Google playstore insights
+
+Creating insights into the Google Play Store apps. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Datacamp/The%20Android%20App%20Market%20On%20Google%20Play)

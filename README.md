@@ -61,6 +61,7 @@ If you are interested in that good academic stuff, be sure to check my [bachelor
 -   [DATACAMP](#datacamp)
     -   [Netflix data](#Netflix-data-on-the-office)
     -   [Google playstore](#Google-playstore-insights)
+    -   [Nobel prize winners](#Nobel-prize-winners)
 
 # Machine Learning
 
@@ -352,3 +353,7 @@ Data investigation into movie data to answer questions about evolution of movie 
 ## Google playstore insights
 
 Creating insights into the Google Play Store apps. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Datacamp/The%20Android%20App%20Market%20on%20Google%20Play)
+
+## Nobel prize winners
+
+Data exploration and analysis of nobel prize winners. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Datacamp/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)

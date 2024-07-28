@@ -62,6 +62,8 @@ If you are interested in that good academic stuff, be sure to check my [bachelor
     -   [Netflix data](#Netflix-data-on-the-office)
     -   [Google playstore](#Google-playstore-insights)
     -   [Nobel prize winners](#Nobel-prize-winners)
+-   [LARGE LANGUAGE MODELS](#large-language-models)
+    -   [Ice breaker](#Ice-breaker)
 
 # Machine Learning
 
@@ -357,3 +359,18 @@ Creating insights into the Google Play Store apps. [View Code](https://github.co
 ## Nobel prize winners
 
 Data exploration and analysis of nobel prize winners. [View Code](https://github.com/HantsonAlec/Portfolio/tree/main/Datacamp/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+
+# Large Language Models
+
+Projects that serve as a learning and experimentation platform for exploring the capabilities LLMs. Leveraging various LangChain features including agents, tools, RAG's,...
+
+## Ice Breaker
+
+LLM app that creates a short ice breaker of a person, based on his/hers linkedIn page. [View Code](https://github.com/HantsonAlec/LLM_ice_breaker)
+
+What I learned:
+
+-   Using LangChain to implement ChatModels
+-   Chains and custom output parsers.
+-   Creation of an LLM agent that uses tools connected to thrid party apps.
+-   LangSmith

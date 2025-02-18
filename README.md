@@ -374,3 +374,13 @@ What I learned:
 -   Chains and custom output parsers.
 -   Creation of an LLM agent that uses tools connected to thrid party apps.
 -   LangSmith
+
+## Small document assistant
+
+This LLM docs assistant PoC uses small open source models and will be running on a raspberry Pi. [View Code](https://github.com/HantsonAlec/LLM_Docs_Assistent)
+
+What I learned:
+
+-   Deployment of small LLM on a raspberry pi.
+-   Usage of vector store.
+-   Minimal RAG solution.

@@ -64,6 +64,7 @@ If you are interested in that good academic stuff, be sure to check my [bachelor
     -   [Nobel prize winners](#Nobel-prize-winners)
 -   [LARGE LANGUAGE MODELS](#large-language-models)
     -   [Ice breaker](#Ice-breaker)
+    -   [LLM Small Docs Assistant](#Small-document-assistant)
 
 # Machine Learning
 
